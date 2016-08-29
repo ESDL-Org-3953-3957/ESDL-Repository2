@@ -1,2 +1,4 @@
 Hello I am Learning creating Organization.
 This is my First File.
+I am a member.
+I have been added to this organization by owner.
